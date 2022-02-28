@@ -1,5 +1,5 @@
-# Olá, sou Thiago e sou um desenvolvedor desktop e web
-Sou desenvolvedor e estou gerando valor com soluções desktop e web.
+# Olá, sou Thiago.
+Sou desenvolvedor e estou gerando valor com sistemas.
   
 ### Profile
   <img src="https://github-readme-stats.vercel.app/api?username=xThiagoSant&show_icons=true&theme=buefy&include_all_commits=true&count_private=false" height=200em />
