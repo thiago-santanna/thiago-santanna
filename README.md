@@ -2,7 +2,7 @@
 Sou desenvolvedor e estou gerando valor com sistemas.
   
 ### Profile
-  <img src="https://github-readme-stats.vercel.app/api?username=xThiagoSant&show_icons=true&theme=buefy&include_all_commits=true&count_private=false" height=200em />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-santanna&show_icons=true&theme=buefy&include_all_commits=true&count_private=false" height=200em />
   
 ### Tecnologias que trabalho
 
