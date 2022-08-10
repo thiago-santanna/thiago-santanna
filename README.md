@@ -14,6 +14,18 @@
     > Access My Repositories </a>
   </h2>
 </div>  
+
+<div align="center">
+  <a href="https://github.com/thiago-santanna">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiago-santanna&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-santanna&layout=compact&langs_count=7&theme=calm"/>
+</div>
+
+<div align='center'>
+  <a height="150em" href="https://github.com/thiago-santanna">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=thiago-santanna&theme=calm&date_format=j%20M%5B%20Y%5D"
+  </a>
+</div>
   
 ### Tecnologias que trabalho
 
