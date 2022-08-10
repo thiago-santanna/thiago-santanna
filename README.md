@@ -1,8 +1,19 @@
-# Olá, sou Thiago.
-Sou desenvolvedor e estou gerando valor com sistemas.
+### Olá, sou Thiago Sant'anna da Silva, desenvolvedor e estou gerando valor com sistemas.👋
+
+- Trabalho com Development Full-Stack ...
   
 ### Profile
   <img src="https://github-readme-stats.vercel.app/api?username=thiago-santanna&show_icons=true&theme=buefy&include_all_commits=true&count_private=false" height=200em />
+  
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/thiago-santanna?tab=stars"
+    > Access My Repositories </a>
+  </h2>
+</div>  
   
 ### Tecnologias que trabalho
 
